@@ -1,0 +1,58 @@
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.AssemblyReference.cache
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.SuggestedBindingRedirects.cache
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CustomerSignUp.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.EmployeeDashboard.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Start.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SignIn.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SearchAccount.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.AddMoney.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CheckBalance.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.RemoveAccount.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.WithdrawMoney.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.ManagerDashboard.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.RegisterEmployee.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.RegisterManager.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.RemoveAccountApproval.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.UpdateCustomer.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CustomerAccountDetails.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.EmployeeDetails.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.UpdateEmployee.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.About.resources
+F:\Spring 21-22\C# Project\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.PrivacyPolicy.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe.config
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\bin\Debug\Bank Management System.exe
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\bin\Debug\Bank Management System.pdb
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.About.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.AddMoney.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CheckBalance.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CustomerAccountDetails.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.CustomerSignUp.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.EmployeeDashboard.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.EmployeeDetails.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.ManagerDashboard.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.PrivacyPolicy.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.RegisterEmployee.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.RegisterManager.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.RemoveAccount.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.RemoveAccountApproval.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SearchAccount.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Start.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.Properties.Resources.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.SignIn.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.UpdateCustomer.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.UpdateEmployee.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank_Management_System.WithdrawMoney.resources
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank Management System.exe
+C:\Users\HP\Downloads\Project-main\Project-main\Bank Management System\Bank Management System\obj\Debug\Bank Management System.pdb
